@@ -1,0 +1,11 @@
+C:\Users\dormitnik\source\repos\Event_Project\Event_Project\obj\Debug\Event_Project.csproj.AssemblyReference.cache
+C:\Users\dormitnik\source\repos\Event_Project\Event_Project\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\dormitnik\source\repos\Event_Project\Event_Project\obj\Debug\Event_Project.Properties.Resources.resources
+C:\Users\dormitnik\source\repos\Event_Project\Event_Project\obj\Debug\Event_Project.csproj.GenerateResource.cache
+C:\Users\dormitnik\source\repos\Event_Project\Event_Project\obj\Debug\Event_Project.csproj.CoreCompileInputs.cache
+C:\Users\dormitnik\source\repos\Event_Project\Event_Project\bin\Debug\Event_Project.exe.config
+C:\Users\dormitnik\source\repos\Event_Project\Event_Project\bin\Debug\Event_Project.exe
+C:\Users\dormitnik\source\repos\Event_Project\Event_Project\bin\Debug\Event_Project.pdb
+C:\Users\dormitnik\source\repos\Event_Project\Event_Project\obj\Debug\Event_Project.exe
+C:\Users\dormitnik\source\repos\Event_Project\Event_Project\obj\Debug\Event_Project.pdb
+C:\Users\dormitnik\source\repos\Event_Project\Event_Project\obj\Debug\Event_Project.Form2.resources
